@@ -1,24 +1,34 @@
 {
-    "posts": [
-      { 
-        "id": 1, 
-        "title": "언어의 기본은 인사",
-        "SContent": "안녕하세요", 
-        "TContent": "こんにちは", 
-        "author": "sosoeueun", 
-        "toStudy": "Korea", 
-        "toPrac" : "Japan" ,
-        "topic" : "일상"
-      },
-      { 
-        "id": 2, 
-        "title": "일상회화",
-        "SContent": "잘먹겠습니다", 
-        "TContent": "いただきます", 
-        "author": "sosoeueun", 
-        "toStudy": "Korea", 
-        "toPrac" : "Japan" ,
-        "topic" : "일상"
-      }
-    ]
-  }
+  "posts": [
+    {
+      "id": 1,
+      "title": "언어의 기본은 인사",
+      "SContent": "안녕하세요",
+      "TContent": "こんにちは",
+      "author": "sosoeueun",
+      "toStudy": "Korea",
+      "toPrac": "Japan",
+      "topic": "일상"
+    },
+    {
+      "id": 2,
+      "title": "일상회화",
+      "SContent": "잘먹겠습니다",
+      "TContent": "いただきます",
+      "author": "sosoeueun",
+      "toStudy": "Korea",
+      "toPrac": "Japan",
+      "topic": "일상"
+    },
+    {
+      "title": "과제할 때 쓰는 말",
+      "SContent": "徹夜しました",
+      "TContent": "밤을 새웠어요",
+      "author": "소은",
+      "toStudy": "Japan",
+      "toPrac": "Korea",
+      "topic": "일상",
+      "id": 3
+    }
+  ]
+}
